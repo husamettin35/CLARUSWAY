@@ -1,0 +1,146 @@
+body{
+    height: 100%;
+    width: 100%;
+    /* background-color: #85FFBD; */
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+    overflow: scroll;
+}
+/* .main{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    } */
+
+.paths{
+    width: 100%;
+    height: 100%;
+    background-color: grey;
+    text-align: center;
+    font-family: 'Passions Conflict', cursive;
+    opacity: 0.4;
+    color: #e1e905;
+    border-radius: 25px;
+
+font-size: 130px;
+}
+.paths:hover{
+    transform: scale(1.05);
+    transition: transform 1s ease;
+}
+
+.ware{
+    width: 95%;
+    height: 350px;
+
+  text-align: center;
+  margin: auto;
+  margin-top: 15px;
+  font-size: large;
+  /* position:absolute; */
+  border-radius: 25px;
+  font-size:larger;
+  box-shadow: 0 0 6px 4px black;
+}
+.fs{
+    width: 35%;
+    height: 85%;
+    margin: auto;
+    float: left;
+    margin-left: 10px ;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor:default;
+    font-size: larger;
+    box-shadow: 0 0 6px 4px black;
+}
+.fs:hover{
+    transform: scale(1.05);
+    transition: transform 1s ease;
+}
+.ware:hover{
+    transform: scale(1.05);
+    transition: transform 1s ease;
+}
+.soft{
+    color: rgb(199, 9, 209);
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    transition: :transform 1s ease-in-out;
+
+}
+.soft:hover{
+    transform: scale(1.05);
+    transition: transform 1s ease;
+}
+.full{
+    width: 150px;
+    height: 50px;
+background-color: rgb(246, 65, 5);
+
+box-shadow: 0 0 6px 4px black;
+/* float:right; */
+float:inline-end;
+/* text-align: center; */
+
+margin-right: 10px;
+margin-top: 20px;
+border-radius: 15px;
+border:5px rgb(2, 241, 34) ;
+}
+ .more{
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    color: rgb(13, 13, 13);
+    
+}
+
+.aws{
+    width: 95%;
+    height: 350px;
+    border: none;
+  text-align: center;
+  margin: auto;
+  margin-top: 15px;
+  font-size: large;
+  /* position:absolute; */
+  border-radius: 25px;
+  font-size:larger;
+  box-shadow: 0 0 6px 4px black;
+}
+.aws:hover{
+    transform: scale(1.05);
+    transition: transform 1s ease;
+}
+.devops{
+    color: rgb(199, 9, 209);
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+}
+.engin{
+    width: 150px;
+    height: 50px;
+background-color: rgb(246, 65, 5);
+;
+/* float:right; */
+float:inline-end;
+/* text-align: center; */
+
+margin-right: 10px;
+margin-top: 20px;
+border-radius: 15px;
+border:5px rgb(2, 241, 34) ;
+box-shadow: 0 0 6px 4px black;
+float: inline-end;
+
+}
+ .eer{
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    color: rgb(13, 13, 13);   
+}
+
